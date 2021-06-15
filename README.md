@@ -1,7 +1,6 @@
-# Artificial-Intelligence-for-Robotics-by-Sebastian-Thrun
-This Repository Contains a project I created in which I  used all tools that I learned in Artificial Intelligence for Robotics Course  by Sebastian Thrun Udacity
+# Robotic-Car-Path-Planning
 
-
+This Repository Contains a project I created in which I  used all tools that I learned in Artificial Intelligence for Robotics Course  by Sebastian Thrun Udacity.
 
 In this project I used an algorithm called Twiddle to optimise parameters for PD Controller and a Smoother to make a robotic car reach its goal on a smooth path without colliding.
 
@@ -16,14 +15,14 @@ In this project I used an algorithm called Twiddle to optimise parameters for PD
 
 
 This is final Path followed by the car:
-![Alt Text](https://github.com/Rahul-Choudhary-3614/Artificial-Intelligence-for-Robotics-by-Sebastian-Thrun/blob/main/images/Result.png?raw=true)
+![Alt Text](https://github.com/Rahul-Choudhary-3614/Robotic-Car-Path-Planning-/blob/main/images/Result.png?raw=true)
 
 
 A* Algorithm:
-![Alt Text](https://github.com/Rahul-Choudhary-3614/Artificial-Intelligence-for-Robotics-by-Sebastian-Thrun/blob/main/images/astar_grid.gif?raw=true)
+![Alt Text](https://github.com/Rahul-Choudhary-3614/Robotic-Car-Path-Planning-/blob/main/images/astar_grid.gif?raw=true)
 
 Smoother :
-![Alt Text](https://github.com/Rahul-Choudhary-3614/Artificial-Intelligence-for-Robotics-by-Sebastian-Thrun/blob/main/images/path_smoothing.gif?raw=true)
+![Alt Text](https://github.com/Rahul-Choudhary-3614/Robotic-Car-Path-Planning-/blob/main/images/path_smoothing.gif?raw=true)
 
 Particle Filter:
-![Alt Text](https://github.com/Rahul-Choudhary-3614/Artificial-Intelligence-for-Robotics-by-Sebastian-Thrun/blob/main/images/particle_filter.gif?raw=true)
+![Alt Text](https://github.com/Rahul-Choudhary-3614/Robotic-Car-Path-Planning-/blob/main/images/particle_filter.gif?raw=true)
